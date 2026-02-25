@@ -19,6 +19,11 @@ Dataset
 
 The analysis uses the Adult Census Income dataset, obtained from Kaggle and originally derived from U.S. Census data.
 
+Dataset link (Kaggle):
+https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
+
+Download the csv and place it in the project directory.
+
 Key variables include:
 
 Education level and years of education
